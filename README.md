@@ -18,7 +18,7 @@ This project contains the basic features that are required to build an amazing F
 In the command terminal, run the following commands:
 
     $ git clone https://github.com/geekruchika/FlutterDribble-Animation
-    $ cd FlatApp-Flutter/
+    $ cd FlutterDribble-Animation/dribbledanimation
     $ flutter run
 
 # Simulate for iOS
