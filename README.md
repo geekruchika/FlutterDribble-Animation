@@ -8,7 +8,7 @@ A new open-source Flutter project that enables the developer to quickly get star
 This project contains the basic features that are required to build an amazing Flutter application.
 
 # Demo
-![Demo](https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
+![Demo](https://github.com/geekruchika/FlutterDribble-Animation/blob/master/dribbledanimation/ScreenGif/Login_Animation.gif)
 
 ## Getting Started
 **Note:** Make sure your Flutter environment is setup.
@@ -17,7 +17,7 @@ This project contains the basic features that are required to build an amazing F
 
 In the command terminal, run the following commands:
 
-    $ git clone git@github.com:GeekyAnts/FlatApp-Flutter.git
+    $ git clone https://github.com/geekruchika/FlutterDribble-Animation
     $ cd FlatApp-Flutter/
     $ flutter run
 
