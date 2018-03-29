@@ -1,7 +1,7 @@
 
 # Flutter Login Animation
 
-A new open-source Flutter project that enables the developer to quickly get started with the Flutter animation and application development. I will be taking you through the steps to implement smooth animations in your Flutter Login Animation app with two screens. Here’s a GIF that shows a Flutter app that I created. It is a rebuild version of a UI design that I came across on [Dribbble](https://dribbble.com/shots/1945593-Login-Home-Screen).
+A new open-source Flutter project that enables the developer to quickly get started with the Flutter animation and application development. I will be taking you through the steps to implement smooth animations in your Flutter Login Animation app with two screens in my [medium article](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19). Here’s a GIF that shows a Flutter app that I created. It is a rebuild version of a UI design that I came across on [Dribbble](https://dribbble.com/shots/1945593-Login-Home-Screen).
 
 This project contains the basic features of Flutter Animation that are required to build an amazing Flutter application.
 
